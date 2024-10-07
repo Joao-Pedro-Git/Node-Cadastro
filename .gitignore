@@ -1,0 +1,11 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar a pasta public
+public/
+
+# Ignorar o arquivo package-lock.json
+package-lock.json
+
+# Ignorar o arquivo package.json
+package.json
