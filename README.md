@@ -3,7 +3,7 @@
 ## Node Cadastro  
 
 </div>
-
+![Imagem do Projeto](https://github.com/user-attachments/assets/731d5ce0-91b8-4633-9e91-5a409624a555)
 
 ## Descrição
 Este projeto é uma aplicação web desenvolvida com Node.js e Express, que permite o cadastro e listagem de clientes utilizando um banco de dados MySQL. A aplicação possui um sistema simples de registro, onde os usuários podem se cadastrar e visualizar a lista de clientes já cadastrados.
